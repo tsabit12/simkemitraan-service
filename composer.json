@@ -1,0 +1,11 @@
+{
+  "name" : "html2pdf/codeigniter",
+  "require": {
+    "dompdf/dompdf": "^0.8.3"
+  },
+  "config": {
+    "platform": {
+        "php": "7.1.0"
+    }
+ }
+}
